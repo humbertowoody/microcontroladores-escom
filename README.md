@@ -14,4 +14,4 @@ IPN.
 ## Código Base
 
 Para la realización de prácticas, proyectos y demás, se utiliza el código base
-que se encuentra en este repositorio: `PRINCIPAL1.s`
+que se encuentra en este repositorio: `codigo-base.s`
